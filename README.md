@@ -13,3 +13,6 @@ To view the visualisation:
 
 2. Open the `index.html` file using a local web server. This is necessary to avoid browser security restrictions on `file://` paths. For example:
     - Use the "Live Server" extension in your IDE.
+
+
+You could also check out the visualisation from this link: https://dayyanmirza.github.io/Olympic-Viz/
